@@ -1,0 +1,68 @@
+.contact_box {
+    float: left;
+    width: 70%;
+}
+
+.contact_box1 {
+    padding: 30px 15px;
+    background-color: #fff;
+    width: 700px;
+    float: left;
+    border-radius: 8px;
+}
+
+.contact_box1 .h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #3F3F3F;
+    line-height: 5rem;
+}
+
+.form {
+    width: 600px;
+    float: left;
+}
+
+.label {
+    width: 600px;
+}
+
+.label span {
+    width: 600px;
+    color: #3F3F3F;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.label input {
+    width: 600px;
+    border-radius: 5px;
+    border: #5F5F5F 1px solid;
+    padding: 10px;
+    outline: none;
+}
+
+.label textarea {
+    width: 580px;
+    height: 160px;
+    border-radius: 5px;
+    outline: none;
+    padding: 20px;
+}
+
+.sendButton {
+    display: inline-block;
+    width: 100px;
+    margin: 40px 270px;
+    background-color: #FEAF42;
+    border: 1px #5F5F5F solid;
+    border-radius: 5px;
+    line-height: 40px;
+    color: #fff;
+}
+
+.big_box {
+    width: 25%;
+}
